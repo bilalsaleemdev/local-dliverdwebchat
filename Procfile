@@ -1,1 +1,1 @@
-web: vendor/bin/dlivrdChat-web public/
+web: vendor/bin/heroku-php-apache2 public/

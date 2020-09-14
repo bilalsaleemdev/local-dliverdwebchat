@@ -114,7 +114,7 @@ app.controller("LoginController", function ($scope) {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /Users/bilalsaleem/Documents/GitHub/dlivrdchatweb/resources/js/login.js */"./resources/js/login.js");
+module.exports = __webpack_require__(/*! /Users/bilalsaleem/sites/local-dlivrdchatweb/resources/js/login.js */"./resources/js/login.js");
 
 
 /***/ })

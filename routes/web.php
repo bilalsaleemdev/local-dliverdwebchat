@@ -22,3 +22,4 @@ Auth::routes();
 Route::get('/home', 'HomeController@index')->name('home');
 Route::get('/forget', 'HomeController@forgetPassword')->name('password_forget');
 Route::get('/login', 'HomeController@login')->name('login');
+Route::get('/admin', 'HomeController@admin')->name('admin');

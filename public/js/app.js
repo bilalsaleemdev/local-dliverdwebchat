@@ -37331,8 +37331,8 @@ window.axios.defaults.headers.common['X-Requested-With'] = 'XMLHttpRequest';
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! /Users/bilalsaleem/Documents/GitHub/dlivrdchatweb/resources/js/app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! /Users/bilalsaleem/Documents/GitHub/dlivrdchatweb/resources/sass/app.scss */"./resources/sass/app.scss");
+__webpack_require__(/*! /Users/bilalsaleem/sites/local-dlivrdchatweb/resources/js/app.js */"./resources/js/app.js");
+module.exports = __webpack_require__(/*! /Users/bilalsaleem/sites/local-dlivrdchatweb/resources/sass/app.scss */"./resources/sass/app.scss");
 
 
 /***/ })

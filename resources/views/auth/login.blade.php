@@ -42,9 +42,9 @@
                                         <div class="text-center mt-3">
                                             <a class="small text-decoration-underline text-gray"
                                                 {{--                                       href="{{ route('Forgot') }}"--}}
-                                            >Forgot Password?</a>
+                                            >Forgot your password?</a>
                                         </div>
-                                        <a href="" class="btn btn-primary btn-user text-uppercase col-md-6 offset-md-3 btn-shadow btn-block mt-4">
+                                        <a href="/admin" class="btn btn-primary btn-user text-uppercase col-md-6 offset-md-3 btn-shadow btn-block mt-5">
                                             <span class="hidden-sm">Sign in</span>
                                             <span class="hidden-md">Login</span>
                                         </a>
@@ -54,7 +54,7 @@
                             </div>
                         </div>
                         <div class="col-md-5 d-none d-lg-block bg-login-image" style="background:url()">
-                            <img src="{{ asset('image/loginImage2.png')}}" class="fullwidth fillavailable" alt="">
+                            <img src="{{ asset('image/loginImage.png')}}" class="fullwidth fillavailable" alt="">
                             <!-- <h2 class="text-white overlay-txt">25CENE</h2> -->
                         </div>
                     </div>
